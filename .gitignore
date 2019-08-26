@@ -1,0 +1,4 @@
+pickles/
+*.pyc
+__pycache__/
+twitter_keys.py
